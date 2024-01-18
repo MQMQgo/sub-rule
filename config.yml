@@ -21,5 +21,5 @@ dns:
   nameserver-policy:
    "geosite:cn": "https://223.5.5.5/dns-query"
    
-geox-url:
-geosite: "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat"
+rules:
+  - PROCESS-NAME,qbittorrent.exe,Direct
