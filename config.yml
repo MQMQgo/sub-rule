@@ -23,3 +23,7 @@ dns:
 
 rules:
   - PROCESS-NAME,qbittorrent.exe,DIRECT
+  - PROCESS-NAME,bfv.exe,🎮 游戏平台
+  - PROCESS-NAME,EADesktop.exe,🎮 游戏平台
+  - PROCESS-NAME,EABackgroundService.exe,🎮 游戏平台
+  - PROCESS-NAME,QtWebEngineProcess.exe,🎮 游戏平台
