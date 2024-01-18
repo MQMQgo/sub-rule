@@ -22,4 +22,4 @@ dns:
    "geosite:cn": "https://223.5.5.5/dns-query"
 
 rules:
-  - PROCESS-NAME,qbittorrent.exe,Direct
+  - PROCESS-NAME,qbittorrent.exe,DIRECT
