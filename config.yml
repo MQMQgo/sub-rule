@@ -27,3 +27,4 @@ rules:
   - PROCESS-NAME,EADesktop.exe,🎮 游戏平台
   - PROCESS-NAME,EABackgroundService.exe,🎮 游戏平台
   - PROCESS-NAME,QtWebEngineProcess.exe,🎮 游戏平台
+  - DOMAIN-SUFFIX,cloudflare,♻️ 节点选择
