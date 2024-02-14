@@ -27,6 +27,7 @@ rules:
   - PROCESS-NAME,EADesktop.exe,🎮 游戏平台
   - PROCESS-NAME,EABackgroundService.exe,🎮 游戏平台
   - PROCESS-NAME,QtWebEngineProcess.exe,🎮 游戏平台
+  - PROCESS-NAME,EACefSubProcess.exe,🎮 游戏平台
   - DOMAIN,bam.nr-data.net,🎮 游戏平台
   - DOMAIN,pin-em.data.ea.com,🎮 游戏平台
   - DOMAIN,sdk.split.io,🎮 游戏平台
