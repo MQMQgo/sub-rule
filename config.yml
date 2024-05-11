@@ -21,7 +21,11 @@ dns:
   fake-ip-filter:
   - dns.msftncsi.com
   - www.msftncsi.com
-  - www.msftconnecttest.com  
+  - www.msftconnecttest.com
+  - "*.srv.nintendo.net"
+  - "*.stun.playstation.net"
+  - "xbox.*.microsoft.com"
+  - "*.xboxlive.com"
 
 tcp-concurrent: true
 
