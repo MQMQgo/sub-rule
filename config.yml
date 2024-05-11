@@ -19,13 +19,15 @@ dns:
     "geosite:cn": quic://223.5.5.5:853
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
-  - dns.msftncsi.com
-  - www.msftncsi.com
-  - www.msftconnecttest.com
+  - "dns.msftncsi.com"
+  - "www.msftncsi.com"
+  - "www.msftconnecttest.com"
   - "*.srv.nintendo.net"
   - "*.stun.playstation.net"
   - "xbox.*.microsoft.com"
   - "*.xboxlive.com"
+  - '*.lan'
+  - 'localhost.ptlogin2.qq.com'
 
 tcp-concurrent: true
 
