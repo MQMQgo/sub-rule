@@ -45,3 +45,4 @@ rules:
   - DOMAIN,chat.openai.com.cdn.cloudflare.net,🧲 OpenAI
   - DOMAIN-SUFFIX,alist.mqmqgo.pp.ua,🌏 国内网站
   - DOMAIN-SUFFIX,mqmqgo.cloudns.eu,🌏 国内网站
+  - DOMAIN-SUFFIX,mqmqgo.top,🌏 国内网站
