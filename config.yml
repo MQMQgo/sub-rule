@@ -30,6 +30,7 @@ dns:
   - 'localhost.ptlogin2.qq.com'
 
 tcp-concurrent: true
+unified-delay: true
 
 rules:
   - PROCESS-NAME,qbittorrent.exe,DIRECT
