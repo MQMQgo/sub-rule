@@ -47,3 +47,6 @@ rules:
   - DOMAIN-SUFFIX,mqmqgo.pp.ua,🏡 我的网站
   - DOMAIN-SUFFIX,mqmqgo.cloudns.eu,🏡 我的网站
   - DOMAIN-SUFFIX,mqmqgo.top,🏡 我的网站
+  - PROCESS-NAME,HeavenBurnsRed.exe,🎬 巴哈姆特
+  - domain,api-ap.heaven-burns-red.wfs.games,🎬 巴哈姆特
+  - PROCESS-NAME,Photoshop.exe,REJECT
