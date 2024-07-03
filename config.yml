@@ -43,7 +43,7 @@ rules:
   - DOMAIN,pin-em.data.ea.com,🎮 游戏平台
   - DOMAIN,sdk.split.io,🎮 游戏平台
   - DOMAIN,gateway.ea.com,🎮 游戏平台
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net,🧲 OpenAI
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net,🤖 人工智能
   - DOMAIN-SUFFIX,mqmqgo.pp.ua,🏡 我的网站
   - DOMAIN-SUFFIX,mqmqgo.cloudns.eu,🏡 我的网站
   - DOMAIN-SUFFIX,mqmqgo.top,🏡 我的网站
