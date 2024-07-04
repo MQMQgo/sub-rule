@@ -26,8 +26,8 @@ dns:
   - "*.stun.playstation.net"
   - "xbox.*.microsoft.com"
   - "*.xboxlive.com"
-  - '*.lan'
-  - 'localhost.ptlogin2.qq.com'
+  - "*.lan"
+  - "localhost.ptlogin2.qq.com"
 
 tcp-concurrent: true
 unified-delay: true
