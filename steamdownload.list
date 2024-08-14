@@ -1,1 +1,2 @@
 IP-CIDR,45.121.0.0/16,no-resolve
+IP-CIDR6,2404:3fc0:a:100::/125,no-resolve
