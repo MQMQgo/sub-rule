@@ -17,6 +17,7 @@ dns:
     - 'https://223.5.5.5/dns-query#h3=true'
   nameserver-policy:
     "geosite:cn": 'https://223.5.5.5/dns-query#h3=true'
+    "linux.do": 'https://223.5.5.5/dns-query#h3=true'
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
   - "dns.msftncsi.com"
@@ -51,3 +52,4 @@ rules:
   - domain,api-ap.heaven-burns-red.wfs.games,🎬 巴哈姆特
   - PROCESS-NAME,Photoshop.exe,REJECT
   - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov,⚕️ PubMed
+  - DOMAIN-SUFFIX,linux.do,DIRECT
