@@ -53,3 +53,4 @@ rules:
   - PROCESS-NAME,Photoshop.exe,REJECT
   - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov,⚕️ PubMed
   - DOMAIN-SUFFIX,linux.do,DIRECT
+  - DOMAIN-SUFFIX,new.oaifree.com,DIRECT
