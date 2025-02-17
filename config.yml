@@ -44,8 +44,8 @@ rules:
   - PROCESS-NAME,EABackgroundService.exe,🎮 游戏平台
   - PROCESS-NAME,QtWebEngineProcess.exe,🎮 游戏平台
   - PROCESS-NAME,EACefSubProcess.exe,🎮 游戏平台
-  - DOMAIN,101.101.101.101,🇨🇳 湾湾优选
-  - IP-CIDR,101.101.101.101/32,🇨🇳 湾湾优选,no-resolve
+  - DOMAIN,101.101.101.101,DIRECT
+  - IP-CIDR,101.101.101.101/32,DIRECT,no-resolve
   - DOMAIN,bam.nr-data.net,🎮 游戏平台
   - DOMAIN,pin-em.data.ea.com,🎮 游戏平台
   - DOMAIN,sdk.split.io,🎮 游戏平台
