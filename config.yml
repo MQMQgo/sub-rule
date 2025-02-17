@@ -44,6 +44,8 @@ rules:
   - PROCESS-NAME,EABackgroundService.exe,🎮 游戏平台
   - PROCESS-NAME,QtWebEngineProcess.exe,🎮 游戏平台
   - PROCESS-NAME,EACefSubProcess.exe,🎮 游戏平台
+  - DOMAIN,101.101.101.101,🇨🇳 湾湾优选
+  - IP-CIDR,101.101.101.101/32,🇨🇳 湾湾优选,no-resolve
   - DOMAIN,bam.nr-data.net,🎮 游戏平台
   - DOMAIN,pin-em.data.ea.com,🎮 游戏平台
   - DOMAIN,sdk.split.io,🎮 游戏平台
@@ -53,7 +55,7 @@ rules:
   - DOMAIN-SUFFIX,mqmqgo.cloudns.eu,🏡 我的网站
   - DOMAIN-SUFFIX,mqmqgo.top,🏡 我的网站
   - PROCESS-NAME,HeavenBurnsRed.exe,🎬 巴哈姆特
-  - domain,api-ap.heaven-burns-red.wfs.games,🎬 巴哈姆特
+  - DOMAIN,api-ap.heaven-burns-red.wfs.games,🎬 巴哈姆特
   - PROCESS-NAME,Photoshop.exe,REJECT
   - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov,⚕️ PubMed
   - DOMAIN-SUFFIX,linux.do,DIRECT
