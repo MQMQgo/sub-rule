@@ -8,7 +8,7 @@ dns:
   enabled: true
   ipv6: true
   listen: 0.0.0.0:53
-  enhanced-mode: fake-ip
+  enhanced-mode: redir-host
   use-hosts: true
   respect-rules: true
   prefer-h3: true
