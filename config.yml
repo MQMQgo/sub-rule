@@ -39,6 +39,12 @@ tcp-concurrent: true
 unified-delay: true
 
 rules:
+  - 'DOMAIN,ic.adobe.io,REJECT'
+  - 'DOMAIN-REGEX,^[a-z\d]{10}\.adobe\.io$,REJECT'
+  - 'DOMAIN-SUFFIX,adobestats.io,REJECT'
+  - 'DOMAIN,cc-api-data.adobe.io,REJECT'
+  - 'DOMAIN,cc-cdn.adobe.com,DIRECT'
+  - 'DOMAIN,ccmdls.adobe.com,DIRECT'
   - PROCESS-NAME,qbittorrent.exe,DIRECT
   - PROCESS-NAME,bfv.exe,🎮 游戏平台
   - PROCESS-NAME,EADesktop.exe,🎮 游戏平台
